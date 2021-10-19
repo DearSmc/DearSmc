@@ -2,6 +2,7 @@
 <p align="right">
     <img src="https://visitor-badge.glitch.me/badge?page_id=DearSmc.DearSmc" alt="Visitors Counter">
 </p>
+
 ### 📚  Where I am currently working 📚
 *  📚 I'm a 3rd-year student  at [**_King Mongkut's Institute of Technology Ladkrabang_**](https://www.kmitl.ac.th/en)
 *  💻 I'm studying **Computer Engineering**
