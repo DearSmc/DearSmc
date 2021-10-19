@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, I'm Sumincha Chalowong 👋🏼</h1>
-
+<p align="right">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=DearSmc.DearSmc" alt="Visitors Counter">
+</p>
 ### 📚  Where I am currently working 📚
 *  📚 I'm a 3rd-year student  at [**_King Mongkut's Institute of Technology Ladkrabang_**](https://www.kmitl.ac.th/en)
 *  💻 I'm studying **Computer Engineering**
@@ -53,19 +55,8 @@
 
 ### 📈 My GitHub Stats 📈
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DearSmc&show_icons=true&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=515E63&hide_border=true&hide=issues&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearSmc&layout=compact&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=212121&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DearSmc&&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=515E63&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearSmc&exclude_repo=KNN-Image-Classification&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=515E63&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DearSmc&show_icons=true&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=515E63&hide_border=true&hide=issues&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearSmct&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=212121&hide_border=true&langs_count=8"/>
-</p>
-
-
-</br></br></br>
-<p align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=DearSmc.DearSmc" alt="Visitors Counter">
-</p>
-  
