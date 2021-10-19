@@ -18,16 +18,7 @@
 <!-- <a href="https://www.leetcode.com/dearsmc19" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dearsmc19" height="30" width="40" /></a> -->
 </div></br></br>
 
-
-###  📈 My GitHub Stats 📈
-<p align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DearSmc&show_icons=true&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=515E63&hide_border=true&hide=issues&count_private=true&include_all_commits=true" /> &nbsp;
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearSmc&layout=compact&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=212121&hide_border=true&langs_count=8" />
-
-</p>
-
-</br></br></br></br></br></br>
-<h3 align="left">🛠 Languages and Tools 🛠</h3>
+### 🛠 Languages and Tools 🛠
 <p align="left"> 
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -59,7 +50,14 @@
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
-</br>
+
+### 📈 My GitHub Stats 📈
+<p align="center">
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DearSmc&show_icons=true&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=515E63&hide_border=true&hide=issues&count_private=true&include_all_commits=true" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearSmc&layout=compact&icon_color=515E63&bg_color=30,F1ECC3,57837B&title_color=515E63&text_color=212121&hide_border=true&langs_count=8" />
+</p>
+
+</br></br></br>
 <p align="center">
     <img src="https://visitor-badge.glitch.me/badge?page_id=DearSmc.DearSmc" alt="Visitors Counter">
 </p>
