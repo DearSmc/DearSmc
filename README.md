@@ -7,11 +7,19 @@
 *  📚 I'm a 3rd-year student  at [**_King Mongkut's Institute of Technology Ladkrabang_**](https://www.kmitl.ac.th/en)
 *  💻 I'm studying **Computer Engineering**
 
- ### 🌱 I’m currently learning 🌱
+### 🌱 I’m currently learning 🌱
  * Front end web application -> VueJS & ReactJS with Tailwind and TypeScript
  * Mobile application -> Flutter dart with Firebase
  * Machine Learning with TensorFlow
  * UX UI Design
+
+### 🐱‍👤 what I have done 🐱‍👤
+ * Flutter meme generator | [App repo](https://github.com/DearSmc/flutter-memegen) 
+ * Real Time Monitoring Accident and Casualty in Thailand | [Repo](https://github.com/me-dev-house/RTMA-full_stack)
+ * Social Distance Monitoring System | [Clip Demo](https://www.youtube.com/watch?v=LfrHsrvcD8A&ab_channel=Ddear)
+ * Learning Management System | [web RuammitLMS Repo](https://github.com/Clockwick/LMS)
+ * Game DearCoin | [Repo](https://github.com/DearSmc/GameDearCoin) | [Clip Demo](https://www.youtube.com/watch?v=UDjvqcX1dys&ab_channel=Ddear) 
+ 
 
 ### 🤝 Connect with me 🤝
 <div align="left">
