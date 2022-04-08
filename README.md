@@ -8,10 +8,10 @@
 *  💻 I'm studying **Computer Engineering**
 
 ### 🌱 I’m currently learning 🌱
- * Front end web application -> VueJS & ReactJS with Tailwind and TypeScript
- * Mobile application -> Flutter dart with Firebase
- * Machine Learning with TensorFlow
- * UX UI Design
+ * Front end web application -> VueJS with Tailwind
+ * Front end web application -> ReactTS with MUI
+ * basic Data Analytic using python
+
 
 ### 🐱‍👤 what I have done 🐱‍👤
  * Flutter meme generator | [App repo](https://github.com/DearSmc/flutter-memegen) 
