@@ -4,14 +4,12 @@
 </p>
 
 ### 📚  Where I am currently working 📚
-*  📚 I'm a 3rd-year student  at [**_King Mongkut's Institute of Technology Ladkrabang_**](https://www.kmitl.ac.th/en)
+*  📚 I'm a 4th-year student  at [**_King Mongkut's Institute of Technology Ladkrabang_**](https://www.kmitl.ac.th/en)
 *  💻 I'm studying **Computer Engineering**
 
 ### 🌱 I’m currently learning 🌱
- * Front end web application -> VueJS with Tailwind
  * Front end web application -> ReactTS with MUI
- * basic Data Analytic using python
-
+ * Backend nodeJS Express
 
 ### 🐱‍👤 what I have done 🐱‍👤
  * Flutter meme generator | [App repo](https://github.com/DearSmc/flutter-memegen) 
